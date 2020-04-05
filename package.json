@@ -1,0 +1,29 @@
+{
+  "name": "repain-diseng",
+  "version": "1.0.0",
+  "description": "Web",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ILLUSIAsveta/repain-diseng.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ILLUSIAsveta/repain-diseng/issues"
+  },
+  "homepage": "https://github.com/ILLUSIAsveta/repain-diseng#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-clean-css": "^4.2.0",
+    "gulp-sass": "^4.0.2"
+  },
+  "dependencies": {
+    "browser-sync": "^2.26.7",
+    "gulp-autoprefixer": "^7.0.1",
+    "gulp-mini-css": "0.0.3"
+  }
+}
